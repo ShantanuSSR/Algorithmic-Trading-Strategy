@@ -6,10 +6,10 @@ This is an algorithmic trading strategy that uses a custom technical indicator t
 # Getting Started:
 To use this strategy, you will need to have Python 3.7 or higher installed on your system, along with the following libraries:
 
-PyAlgoTrade
-Pandas
-Matplotlib
-Numpy
+1) PyAlgoTrade
+2) Pandas
+3) Matplotlib
+4) Numpy
 
 
 # Indicator
